@@ -16,7 +16,7 @@ local Player = Players.LocalPlayer
 --========================================================--
 
 local WORLD_INVISIBLE = true
-local WORLD_TRANSPARENCY = 0.95
+local WORLD_TRANSPARENCY = 1
 
 local DISABLE_VFX = true
 local DISABLE_LIGHTS = true
